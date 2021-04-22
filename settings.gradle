@@ -1,0 +1,3 @@
+rootProject.name = 'jdbcat'
+include 'jdbcat-core'
+include 'jdbcat-examples'
